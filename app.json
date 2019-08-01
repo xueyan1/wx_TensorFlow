@@ -1,0 +1,18 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "plugins": {
+    "tfjsPlugin": {
+      "version": "0.0.5",
+      "provider": "wx6afed118d9e81df9"
+    }
+  },
+  "sitemapLocation": "sitemap.json"
+}

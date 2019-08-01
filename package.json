@@ -1,0 +1,25 @@
+{
+  "name": "wx_tensorflow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xueyan1/wx_TensorFlow.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xueyan1/wx_TensorFlow/issues"
+  },
+  "homepage": "https://github.com/xueyan1/wx_TensorFlow#readme",
+  "dependencies": {
+    "@tensorflow/tfjs-converter": "^1.2.6",
+    "@tensorflow/tfjs-core": "^1.2.6",
+    "fetch-wechat": "0.0.3",
+    "@tensorflow-models/posenet":"^2.1.3"
+  }
+}
