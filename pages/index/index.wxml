@@ -1,13 +1,6 @@
 <!--index.wxml-->
 <view class="container">
-  <!-- <camera
-  frame-size='small'
-  device-position="back"
-  flash='off'
-  binderror='error'
-  style='width:100%;height:100%'
-  >
-  <canvas canvas-id='pose' style='width:100%;height:100%'/>
-  
-  </camera> -->
+  <camera frame-size='small' device-position="back" flash='off' binderror='error' style='width:200rpx;height:200rpx'>
+    <canvas canvas-id='pose' style='width:100%;height:100%' />
+  </camera>
 </view>
