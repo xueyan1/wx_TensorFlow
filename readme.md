@@ -200,3 +200,13 @@ App({
 - 中国镜像的地址为 https://www.gstaticcnapps.cn/tfjs-models/savedmodel/posenet/mobilenet/float/050/model-stride16.json
 
 他们的 URL Path 都是 /tfjs-models/savedmodel/posenet/mobilenet/float/050/model-stride16.json
+
+#### tensorflow
+
+- 官方文档 [TensorFlow.js](https://tensorflow.google.cn/js?hl=zh-CN)
+- [模型](https://tensorflow.google.cn/js/models?hl=zh-CN)
+- [API](https://js.tensorflow.org/api/latest/?hl=zh-CN)
+
+#### 项目地址
+
+https://github.com/xueyan1/wx_TensorFlow
